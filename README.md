@@ -1,33 +1,35 @@
 # Oakstone Capital — Real Estate Investment Landing Page
 
-A premium B2B/B2C financial-services landing page concept designed to make an investment proposition feel credible, understandable and actionable.
+![Oakstone Capital preview](assets/site-preview.svg)
+
+A premium real-estate investment landing page concept designed around trust, clarity, information hierarchy and investor lead generation.
 
 ## Portfolio objective
-Demonstrate trust-building UX, information hierarchy, financial-product storytelling and lead-generation design.
+Demonstrate conversion-oriented financial UX, trust-building content structure, clear information hierarchy and restrained premium visual design.
 
 ## Design direction
-- **Audience:** accredited/private real-estate investors
+- **Audience:** accredited/private investors and wealth-focused professionals
 - **Primary conversion:** request investor access
-- **Visual language:** institutional green, warm gold accent, editorial property imagery expressed through layered visual blocks, generous whitespace
+- **Visual language:** warm editorial neutrals, deep green, muted gold, architectural imagery language
 - **Typography:** Manrope + DM Sans
 
 ## Page architecture
-1. Sticky navigation
-2. Value-led investment hero
-3. Trust metrics above the fold
+1. Minimal navigation
+2. Investment proposition hero
+3. Trust and portfolio signals
 4. Current opportunities
-5. Proof and portfolio metrics
+5. Investment rationale and metrics
 6. Three-step investment approach
-7. Private investor CTA
-8. Compliance-minded footer note
+7. Investor-access CTA
+8. Disclaimer-aware footer
 
 ## UX decisions
-The hero establishes the investment proposition and credibility before introducing the opportunity catalogue. Key metrics appear early because financial visitors need evidence quickly. The opportunity cards then provide a natural exploration path, while the process section answers the next question: "How does this work?" The final CTA asks for access only after the visitor has received enough context to make that action feel appropriate.
+The hero establishes the investment proposition and proof points before asking for a lead. Opportunity cards provide scannable evidence, while the process section explains how risk is considered. Illustrative return figures are explicitly labeled so the design communicates credibility without presenting fictional performance as fact.
 
 ## Design feedback lens
-The review should focus on whether the hierarchy communicates risk/return information responsibly, whether trust signals are easy to scan, whether the property cards create curiosity without overpromising, and whether the CTA feels credible and low-friction.
+Review for five-second clarity, trust signal placement, metric readability, CTA prominence, and whether the information hierarchy makes a complex investment proposition feel understandable.
 
 ## Tech
 HTML5 · CSS3 · Google Fonts
 
-> Portfolio concept — fictional investment company. All financial figures and opportunities are illustrative and are not investment advice or guarantees.
+> Portfolio concept — fictional company, properties and illustrative investment figures. Not investment advice.
